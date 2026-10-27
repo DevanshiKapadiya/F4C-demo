@@ -1,0 +1,1 @@
+import{h as e,i as o,j as t,M as r,T as i}from"./index-C-QtwAGE.js";const d=()=>{const{user:s}=e(),{siteTitle:a}=o();return t.jsx(r,{title:`Dashboard Card - ${s==null?void 0:s.name}`,children:t.jsxs(i,{variant:"body2",children:["Welcome to ",a]})})};export{d as default};

@@ -1,0 +1,87 @@
+.error {
+  color: red;
+}
+.ck-powered-by-balloon {
+  display: none !important;
+}
+span.MuiButtonBase-root.MuiRadio-root {
+  width: 45%;
+}
+.size-small .icon .dot {
+  top: 50% !important;
+  bottom: 50% !important;
+  margin: auto !important;
+}
+.MuiListItemText-root {
+  text-wrap: auto;
+}
+.customBreadcrumb {
+  margin: 10px 0px;
+}
+.homeClass {
+  margin: 0;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.57;
+  color: #8c8c8c;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+.seprator {
+  user-select: none;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.notificationPaper {
+  max-height: 350px !important;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch !important;
+}
+.notificationText {
+  max-width: 50% !important;
+}
+.MuiGrid-container {
+  width: auto;
+}
+.MuiCardHeader-root {
+  overflow: auto;
+}
+.MuiAppBar-root {
+  padding-right: 0px !important;
+}
+/* Scrolbar css start */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #bbc2c8;
+  border-radius: 20px;
+}
+/* scroll bar css end */
+.ck.ck-editor__top {
+  border-bottom: 1px solid #e6ebf1;
+}
+.ck-content.ck-editor__editable {
+  resize: vertical;
+  overflow: scroll;
+  border-bottom: 1px solid #e6ebf1;
+}
+.muiTextArea .MuiInputBase-root {
+  min-height: auto;
+  resize: vertical;
+  overflow: auto;
+}
+.MuiAvatar-circular img {
+  object-fit: contain;
+}
+.mark {
+  background-color: #ffeb3b;
+  padding: 0;
+  color: inherit;
+}
